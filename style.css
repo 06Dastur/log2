@@ -96,10 +96,15 @@ button:hover{
 #chk:checked ~ .signup label{
     transform: scale(.6);
 }
-.login a{
+.fr-pr{
     color: rgb(91, 87, 87);
     text-decoration: none;
     text-align: center;
-    margin-left: 56px;
+    margin-left: 60px;
     font-size: 13px;
+}
+.hm{
+    /* background-color: red; */
+    top: 0;
+    color: #eee;
 }
